@@ -6,8 +6,8 @@ KolodaView [![Carthage compatible](https://img.shields.io/badge/Carthage-compati
 Check this [article on our blog](https://yalantis.com/blog/how-we-built-tinder-like-koloda-in-swift/).
 And another one [article on our blog](https://yalantis.com/blog/koloda-tinder-like-animation-version-2-prototyping-in-pixate-and-development-in-swift/)
 
-![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
-![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v1_example_animation.gif)
+![Preview](https://github.com/lukamarin/KolodaView-swift/blob/master/Koloda_v2_example_animation.gif)
+![Preview](https://github.com/lukamarin/KolodaView-swift/blob/master/Koloda_v1_example_animation.gif)
 
 Purpose
 --------------
@@ -52,7 +52,7 @@ end
 ```
 To install via Carthage add this lines to your Cartfile
 ```ruby
-github "Yalantis/Koloda"
+github "lukamarin/KolodaView-swift"
 ```
 
 To install manually the KolodaView class in an app, just drag the KolodaView, DraggableCardView, OverlayView class files (demo files and assets are not needed) into your project. Also you need to install facebook-pop. Or add bridging header if you are using CocoaPods.
@@ -253,7 +253,7 @@ Version 3.0
 
 - Ability to dynamically insert/delete/reload specific cards
 - External animator
-- Major refactoring. [More information](https://github.com/Yalantis/Koloda/releases/tag/3.0.0)
+- Major refactoring. [More information](https://github.com/lukamarin/KolodaView-swift/releases/tag/3.0.0)
 - Swift 2.2 support
 
 Version 2.0
@@ -273,13 +273,13 @@ Version 1.0
 
 - [BroApp](https://itunes.apple.com/ua/app/bro-social-networking-bromance/id1049979758?mt=8).
 
-![Preview](https://github.com/Yalantis/Koloda/blob/master/Example/UsageExamples/bro.gif)
+![Preview](https://github.com/lukamarin/KolodaView-swift/blob/master/Example/UsageExamples/bro.gif)
 - [Storage Space Plus](https://itunes.apple.com/us/app/storage-space-plus-compress/id1086277462?mt=8).
 
 
 #### Let us know!
 
-We’d be really happy if you sent us links to your projects where you use our component. Just send an email to github@yalantis.com And do let us know if you have any questions or suggestion regarding the animation.
+We’d be really happy if you sent us links to your projects where you use our component. Just send an email to github@lukamarin.com And do let us know if you have any questions or suggestion regarding the animation.
 
 P.S. We’re going to publish more awesomeness wrapped in code and a tutorial on how to make UI for iOS (Android) better than better. Stay tuned!
 
@@ -288,7 +288,7 @@ License
 
 The MIT License (MIT)
 
-Copyright © 2016 Yalantis
+Copyright © 2016 Luka
 
 Permission is hereby granted free of charge to any person obtaining a copy of this software and associated documentation files (the "Software") to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
